@@ -1,6 +1,11 @@
+import Navbar from "../../components/navbar"
+import ContactHero from "./components/contact-hero"
+
 const ContactUs = () => {
   return (
-    <div>ContactUs</div>
+    <div>
+      <ContactHero/>
+    </div>
   )
 }
 

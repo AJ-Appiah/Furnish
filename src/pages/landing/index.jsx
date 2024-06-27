@@ -12,7 +12,6 @@ import ProductionFlows from "./production-flows"
 const LandingPage = () => {
   return (
     <div>
-        <Navbar/>
         <Hero/>
         <Services/>
         <About/>
@@ -21,7 +20,6 @@ const LandingPage = () => {
         <Testimonials/>
         <ProductionFlows/>
         <Blog/>
-        <Footer/>
         
         
     

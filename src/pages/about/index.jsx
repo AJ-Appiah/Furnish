@@ -1,14 +1,15 @@
-import Navbar from "../../components/navbar"
+import Statistics from "../../components/statistics"
+import Testimonials from "../../components/testimonials"
 import AboutFurnish from "./components/about-furnish"
-import Hero from "./components/about-hero"
+import AboutHero from "./components/about-hero"
 
 const About = () => {
   return (
     <div>
-        <Navbar/>
         <AboutFurnish/>
-        
-
+        <AboutHero/>
+        <Statistics/>
+        <Testimonials/>
     </div>
   )
 }
