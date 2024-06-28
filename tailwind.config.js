@@ -6,7 +6,11 @@ export default {
     ],
     
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        lightBlue: "#D4EAF5"
+      }
+    },
   },
   plugins: [],
 }
