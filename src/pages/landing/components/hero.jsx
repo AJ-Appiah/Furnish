@@ -3,7 +3,7 @@ import { heroImage } from "../../../assets"
 const Hero = () => {
   return (
     <div className="flex h-screen">
-      <div className="w-1/2 bg-[#99daf1] place-content-center">
+      <div className="w-1/2 bg-[#E3D0CA] place-content-center">
           <div className="mx-auto w-fit flex flex-col items-start gap-y-4 pl-20">
           <div className="flex flex-col text-5xl">
             <span className="font-thin">Best Design of</span>
