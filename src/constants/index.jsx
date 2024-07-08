@@ -24,20 +24,20 @@ const K = {
     SERVICES: [
         {
             title: "Exclusive Yacht Charters",
-            description: "Set sail on an unforgettable journey with our exclusive yacht charters.",
+            description: "Set sail on an unforgettable journey with our exclusive yacht charters. Experience a world of luxury and adventure awaiting you.",
             // Icon: <Handshake/>,
-            iconColor: "#CB9696",
+            iconColor: "#E1CEC8",
             bgColor: "#F5EBEB"
         },
         {
-            title: "Amazing Deals",
-            description: "Far far away, behind the word mountains, far from the countries Vokalia.",
+            title: "Customized Itineraries",
+            description: "Experience the freedom of a tailored adventure with our customized itineraries. ",
             // Icon: <Handshake/>,
             iconColor: "#8BBD8E",
             bgColor: "#DCEBDD"
         },
         {
-            title: "Amazing Deals",
+            title: "Gourmet Onboard Dining",
             description: "Far far away, behind the word mountains, far from the countries Vokalia.",
             // Icon: <Handshake/>,
             iconColor: "#D1B54A",
